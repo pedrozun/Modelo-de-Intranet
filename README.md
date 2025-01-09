@@ -105,8 +105,6 @@ Abra a pagina informada no terminal no browser e navegue.
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 - [React](https://reactjs.org/) - O framework web usado
 - [React Router](https://reactrouter.com/) - Gerente de Rotas
 - [Lucide](https://lucide.dev/) - Usada para ícones personalizados
@@ -115,8 +113,6 @@ Mencione as ferramentas que você usou para criar seu projeto
 - [PDF.js](https://mozilla.github.io/pdf.js/) - Usada para renderizar PDFs
 - [Node.js](https://nodejs.org/) - Ambiente de execução para JavaScript
 - [cdnjs](https://cdnjs.com/) - Usada como CDN para bibliotecas web
-
-s sobre o nosso código de conduta e o processo para nos enviar pedidos de solicitação.
 
 ## 📌 Versão
 
