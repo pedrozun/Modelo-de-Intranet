@@ -113,6 +113,7 @@ Abra a pagina informada no terminal no browser e navegue.
 - [PDF.js](https://mozilla.github.io/pdf.js/) - Usada para renderizar PDFs
 - [Node.js](https://nodejs.org/) - Ambiente de execução para JavaScript
 - [cdnjs](https://cdnjs.com/) - Usada como CDN para bibliotecas web
+- [Tailwind CSS](https://tailwindcss.com/) - Framework CSS utilitário para estilização rápida
 
 ## 📌 Versão
 
