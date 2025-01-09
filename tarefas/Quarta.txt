@@ -1,0 +1,6 @@
+CFTV funcionamento e acesso.
+Garantir que as configurações de telefonia para o plantão técnico. Aplicar testes.
+Verificar automação quanto a agendamento e posição das chaves nos quadros de cada andar.
+Verificar os Links de Internet e Telefonia.
+Atualizar sistemas e softwares com patches de segurança liberados recentemente.
+Verificar o sistema de automação do ar-condicionado.

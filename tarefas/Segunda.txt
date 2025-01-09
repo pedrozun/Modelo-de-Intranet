@@ -1,0 +1,6 @@
+Revisar os logs dos servidores da matriz e filial, identificar alertas críticos e iniciar correções.
+Verificar os sistemas de alarme.
+CFTV funcionamento e acesso.
+Garantir que as configurações de telefonia para o plantão técnico. Aplicar testes.
+Verificar automação quanto a agendamento e posição das chaves nos quadros de cada andar.
+Verificar os Links de Internet e Telefonia.

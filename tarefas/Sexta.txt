@@ -1,0 +1,6 @@
+CFTV funcionamento e acesso.
+Garantir que as configurações de telefonia para o plantão técnico. Aplicar testes.
+Verificar automação quanto a agendamento e posição das chaves nos quadros de cada andar.
+Verificar os Links de Internet e Telefonia.
+Monitorar o desempenho dos sistemas e redes nas duas localidades. ajustar configurações conforme necessário.
+Máxima atenção aos sistemas automáticos e recursos que possam acionar indevidamente luzes, sistemas de ar condicionado e afins ao longo do final de semana.
