@@ -134,28 +134,48 @@ v1.0.0
 
 ## Screenshots
 
-Login
+## Login
+
 ![App Screenshot](https://i.imgur.com/XyaM3Bb.png)
-Inicio
+
+## Inicio
+
 ![App Screenshot](https://i.imgur.com/mPdKzUM.png)
-Menu Lateral
+
+## Menu Lateral
+
 ![App Screenshot](https://i.imgur.com/gz7Cv2Z.png)
 
-Não encontrado
+## Não encontrado
+
 ![App Screenshot](https://i.imgur.com/9JwAYc6.png)
-Aniversarios
+
+## Aniversarios
+
 ![App Screenshot](https://i.imgur.com/RDXCjlJ.png)
-Agenda
+
+## Agenda
+
 ![App Screenshot](https://i.imgur.com/TblSgPB.png)
-Sem Acesso
+
+## Sem Acesso
+
 ![App Screenshot](https://i.imgur.com/IGvMWCd.png)
-Offices
+
+## Offices
+
 ![App Screenshot](https://i.imgur.com/0VKaCvx.png)
-Papers
+
+## Papers
+
 ![App Screenshot](https://i.imgur.com/MYPJsLf.png)
-Ramais
+
+## Ramais
+
 ![App Screenshot](https://i.imgur.com/9VoSJxi.png)
-Tarefas
+
+## Tarefas
+
 ![App Screenshot](https://i.imgur.com/z8F7m28.png)
 
 ---
