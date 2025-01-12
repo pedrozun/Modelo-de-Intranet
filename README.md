@@ -85,6 +85,7 @@ const baseUrl = "https://192.168.100.35:8089/api/";
 Execute no console os comandos na seguinte ordem:
 
 ```
+npm install
 npm run build
 npm run server ou node server/index.js
 ```
