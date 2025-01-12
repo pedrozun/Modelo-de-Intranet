@@ -67,6 +67,17 @@ app.post("/api/tasks/complete", authMiddleware, async (req, res) => {
 	}
 });
 
+//Dashboard route
+app.get("/api/tasks/analytics", authMiddleware, async (req, res) => {
+	try {
+		const analytics = await taskService.getTaskAnalytics();
+		res.json(analytics);
+	} catch (error) {
+		console.error("Error fetching task analytics:", error);
+		res.status(500).json({ error: "Failed to fetch task analytics" });
+	}
+});
+
 // Meeting room routes
 app.get("/api/meetings", authMiddleware, async (req, res) => {
 	try {

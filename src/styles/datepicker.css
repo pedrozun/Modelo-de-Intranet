@@ -1,0 +1,104 @@
+/* Custom DatePicker Styles */
+.react-datepicker {
+	@apply bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-lg !important;
+	font-family: inherit;
+}
+
+.react-datepicker__header {
+	@apply bg-gray-50 dark:bg-gray-700 rounded-lg !important;
+	border-bottom: none !important;
+}
+
+.react-datepicker__current-month,
+.react-datepicker-year-header {
+	@apply text-gray-900 dark:text-white font-semibold !important;
+}
+
+.react-datepicker__day-name {
+	@apply text-gray-600 dark:text-gray-400 !important;
+}
+
+.react-datepicker__day {
+	@apply text-gray-700 dark:text-white hover:bg-blue-50 dark:hover:bg-blue-900/30 rounded-md !important;
+}
+
+.react-datepicker__day--selected {
+	@apply bg-blue-500 dark:bg-blue-600 text-white hover:bg-blue-600 dark:hover:bg-blue-700 !important;
+}
+
+.react-datepicker__day--keyboard-selected {
+	@apply bg-blue-100 dark:bg-blue-900/30 text-blue-600 dark:text-blue-400 !important;
+}
+
+.react-datepicker__month-text {
+	@apply py-2 px-4 rounded-md text-gray-700 dark:text-white hover:bg-blue-50 dark:hover:bg-blue-900/30 !important;
+}
+
+/* Only highlight the current selected month */
+.react-datepicker__month-text--selected {
+	@apply bg-blue-500 dark:bg-blue-600 text-white hover:bg-blue-600 dark:hover:bg-blue-700 !important;
+}
+
+/* Remove keyboard selection highlight */
+.react-datepicker__month-text--keyboard-selected:not(
+		.react-datepicker__month-text--selected
+	) {
+	@apply bg-transparent hover:bg-blue-50 dark:hover:bg-blue-900/30 text-gray-700 dark:text-white !important;
+}
+
+.react-datepicker__navigation {
+	@apply top-3 !important;
+}
+
+.react-datepicker__navigation-icon::before {
+	@apply border-gray-400 dark:border-gray-500 !important;
+}
+
+.react-datepicker__year-read-view--down-arrow {
+	@apply border-gray-400 dark:border-gray-500 !important;
+}
+
+.react-datepicker-popper {
+	@apply z-50 !important;
+}
+
+.react-datepicker__month-container {
+	@apply p-2 flex flex-col !important;
+}
+
+.react-datepicker__month-wrapper {
+	@apply flex flex-col !important;
+}
+
+.react-datepicker__month-text {
+	@apply my-1 w-auto px-4 capitalize !important;
+	min-width: 140px;
+}
+
+/* Year text color */
+.react-datepicker__year-text,
+.react-datepicker__year {
+	@apply text-gray-900 dark:text-white !important;
+}
+
+/* Year selection dropdown */
+.react-datepicker__year-dropdown {
+	@apply bg-white dark:bg-gray-800 border border-gray-200 dark:border-gray-700 !important;
+}
+
+.react-datepicker__year-option {
+	@apply text-gray-900 dark:text-white hover:bg-blue-50 dark:hover:bg-blue-900/30 !important;
+}
+
+.react-datepicker__year-read-view--selected-year {
+	@apply text-gray-900 dark:text-white !important;
+}
+
+/* Year header specific */
+.react-datepicker__header__dropdown {
+	@apply text-gray-900 dark:text-white !important;
+}
+
+.react-datepicker__year-dropdown-container {
+	@apply text-gray-900 dark:text-white !important;
+}
