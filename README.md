@@ -180,4 +180,8 @@ v1.0.0
 
 ![App Screenshot](https://i.imgur.com/z8F7m28.png)
 
+## Dashboard
+
+![App Screenshot](https://i.imgur.com/2BATFGk.png)
+
 ---
